@@ -1,5 +1,5 @@
 # Book_Store
-<h1>Sprint Boot Project</h1>
-<h2>I Will Provides the guide line. How to run the project Later</h2>
+<h3>Sprint Boot Project</h3>
+<h3>I Will Provides the guide line. How to run the project Later</h3>
 
-<h1>Thankyou</h1>
+<h2>Thankyou</h2>
